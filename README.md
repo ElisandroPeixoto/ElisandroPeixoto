@@ -1,4 +1,4 @@
-<h3>Olá, Sou o Elisandro Peixoto</h3>
+<h3>Olá, Me chamo Elisandro Peixoto</h3>
 <p> Engenheiro de Automação e Desenvolvedor Web em construção</p>
 
 
