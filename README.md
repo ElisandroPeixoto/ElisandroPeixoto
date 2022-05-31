@@ -1,5 +1,5 @@
 <h3>Olá, Me chamo Elisandro Peixoto</h3>
-<p> Engenheiro de Automação e Desenvolvedor Web em construção</p>
+<p> Engenheiro Eletricista e estudante de Engenharia de Software</p>
 
 
 <div style="display: inline_block"><br>
