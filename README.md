@@ -1,6 +1,6 @@
 <h3>Olá, Me chamo Elisandro Peixoto</h3>
 <p> 
-   Engenheiro Eletricista e estudante de Engenharia de Software
+   Engenheiro Eletricista, Pós-Graduado em Engenharia de Software
 </p>
 
 
