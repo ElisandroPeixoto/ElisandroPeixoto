@@ -1,8 +1,8 @@
 <h3>Olá, Me chamo Elisandro Peixoto</h3>
 <p> 
-   Engenheiro Eletricista
-   Especialista em Automação de Sistemas Elétricos de Potência
-   Especialista em Engenharia de Software
+   Engenheiro Eletricista<br>
+   Especialista em Automação de Sistemas Elétricos de Potência<br>
+   Especialista em Engenharia de Software<br>
 </p>
 
 <div>
