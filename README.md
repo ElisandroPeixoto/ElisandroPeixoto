@@ -5,7 +5,7 @@
    Especialista em Engenharia de Software
 </p>
 
-
+<div>
 <div style="display: inline_block"><br>
 </div>
 
