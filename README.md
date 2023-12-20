@@ -2,7 +2,7 @@
 <ul> 
    <li>Engenheiro Eletricista</li>
    <li>Especialista em Automação de Sistemas Elétricos de Potência</li>
-   <li>Especialista em Engenharia de Software</li><br>
+   <li>Especialista em Engenharia de Software</li>
    <li>Desenvolvedor Python - Backend</li>
 </ul>
 
