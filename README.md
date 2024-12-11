@@ -1,9 +1,9 @@
-<h3>Olá, Me chamo Elisandro Peixoto</h3>
+<h3>Hi! I'm Elisandro Peixoto</h3>
 <ul> 
-   <li>Engenheiro Eletricista</li>
-   <li>Especialista em Automação de Sistemas Elétricos de Potência</li>
-   <li>Especialista em Engenharia de Software</li>
-   <li>Desenvolvedor Python - Backend</li>
+   <li>Electrical Engineer</li>
+   <li>Software Engineer</li>
+   <li>Specialist in Power System Automation</li>
+   <li>Python Developer</li>
 </ul>
 
 ##
