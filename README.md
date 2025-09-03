@@ -16,11 +16,12 @@
 <br>
 
 <h2>Technologies</h2>
+<p>
 <a><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
 <a><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
-
-
+</p>
 <br>
+
 <h2>Where to find me</h2>
 <a href="mailto:elisandropeixoto21@gmailcom"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/elisandro-peixoto-10317b139/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
