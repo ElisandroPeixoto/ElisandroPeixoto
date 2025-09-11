@@ -2,10 +2,11 @@
 
 <h2>About me</h2>
 <ul> 
-   <li>Electrical Engineer - CESMAC</li>
-   <li>Software Engineer - PUC Minas</li>
-   <li>Specialist in Power System Automation</li>
-   <li>Notion Essencials Certified <img src=https://github.com/user-attachments/assets/37418946-bf8e-4559-b4ca-b52c4a4ff95b width=40></li>
+   <li>⚡ Electrical Engineer - CESMAC</li>
+   <li>💻 Software Engineer - PUC Minas</li>
+   <li>🔌 Specialist in Power System Automation</li>
+   <li>📓 Notion Essencials Certified <img src=https://github.com/user-attachments/assets/37418946-bf8e-4559-b4ca-b52c4a4ff95b width=40></li>
+   <li>🎮 Developing games as a hobby</li>
 </ul>
 <br>
 
